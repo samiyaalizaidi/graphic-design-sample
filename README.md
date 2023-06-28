@@ -6,7 +6,7 @@ This is a portfolio for a made-up freelance graphic designer named "Emily Johnso
 
 <ol>
   <li>
-    **Desktop View**    
+    Desktop View   
       <ul>
         <li>The header section contains the logo and navigation menu on the top right.</li>
         <li>The hero section displays a large background image with a prominent headline and a call-to-action button to view the portfolio.</li>
@@ -17,7 +17,7 @@ This is a portfolio for a made-up freelance graphic designer named "Emily Johnso
   </li>
 <br>
   <li>
-    **Tablet View**
+    Tablet View
       <ul>
         <li>The header remains at the top but may adjust its size to fit the screen.</li>
         <li>The hero section maintains its position but may resize to fit the screen width, ensuring the headline and button remain readable.</li>
@@ -28,7 +28,7 @@ This is a portfolio for a made-up freelance graphic designer named "Emily Johnso
   </li>
 <br>
   <li>
-    **Mobile View**
+    Mobile View
       <ul>
         <li>The header section may collapse into a hamburger menu icon, revealing the navigation when clicked.</li>
         <li>The hero section adjusts to a narrower layout, with the headline and button centered and stacked vertically.</li>
